@@ -1,4 +1,4 @@
-# Custom RandomSearchCV Implementation
+# Custom RandomSearchCV with KNN
 This project implements a custom version of RandomSearchCV for hyperparameter tuning, using the K-Nearest Neighbors (KNN) classifier. It demonstrates hyperparameter selection by evaluating model performance across multiple folds of cross-validation and visualizes decision boundaries to understand the classifier's behavior.
 
 <b>Features</b><br>
